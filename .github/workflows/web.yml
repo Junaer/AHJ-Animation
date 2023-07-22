@@ -1,4 +1,4 @@
-name: dnd 
+name: ahj-animation
 
 on: [push, pull_request]
 
