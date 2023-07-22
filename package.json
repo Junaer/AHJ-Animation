@@ -16,7 +16,6 @@
   },
   "repository": "https://github.com/junaer/AHJ-Animation.git",
   "author": "junaer",
-  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.18.10",
